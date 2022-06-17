@@ -1,0 +1,6 @@
+distortion
+hole
+debris
+moldy
+bark
+dreg

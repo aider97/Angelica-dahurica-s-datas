@@ -1,0 +1,6 @@
+debris 2630 513 2813 622 difficult
+moldy 1348 2013 1465 2133 difficult
+debris 1446 3027 1581 3176 difficult
+debris 1379 2968 1476 3049 difficult
+hole 2646 2998 2775 3132 difficult
+debris 1386 3717 1559 3862 difficult
