@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Image_503.jpg</filename>
+	<path>D:\Users\Aider\Desktop\Learn\python_crash_course\Deep_Learning\yolox-pytorch-main\VOCdevkit\VOC2007\JPEGImages\Image_503.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dreg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1523</xmin>
+			<ymin>2974</ymin>
+			<xmax>1589</xmax>
+			<ymax>3048</ymax>
+		</bndbox>
+	</object>
+</annotation>

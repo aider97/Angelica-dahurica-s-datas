@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>Image_20210619204528663.jpg</filename>
+	<path>D:\Users\Qinaider\Desktop\dates\photo\Image_20210619204528663.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>distortion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1386</xmin>
+			<ymin>671</ymin>
+			<xmax>1630</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>bark11.jpg</filename>
+	<path>D:\Users\Aider\Desktop\design\03_program\yolox-pytorch-main\YUV_data\yuv_v3\VOC2007\JPEGImages\bark11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>distortion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1469</xmin>
+			<ymin>222</ymin>
+			<xmax>1719</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>Image_20210619204515159.jpg</filename>
+	<path>D:\Users\Qinaider\Desktop\dates\photo\Image_20210619204515159.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moldy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2665</xmin>
+			<ymin>1022</ymin>
+			<xmax>2822</xmax>
+			<ymax>1183</ymax>
+		</bndbox>
+	</object>
+</annotation>

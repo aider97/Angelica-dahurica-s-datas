@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>Image_20210619204304085.jpg</filename>
+	<path>D:\Users\Qinaider\Desktop\dates\photo\Image_20210619204304085.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2565</xmin>
+			<ymin>2787</ymin>
+			<xmax>2797</xmax>
+			<ymax>2995</ymax>
+		</bndbox>
+	</object>
+</annotation>

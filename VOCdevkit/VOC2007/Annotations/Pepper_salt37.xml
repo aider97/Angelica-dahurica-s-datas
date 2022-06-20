@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>dreg14.jpg</filename>
+	<path>D:\Users\Aider\Desktop\design\03_program\yolox-pytorch-main\YUV_data\yuv_v3\VOC2007\JPEGImages\dreg14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moldy</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1581</xmin>
+			<ymin>3892</ymin>
+			<xmax>1801</xmax>
+			<ymax>4096</ymax>
+		</bndbox>
+	</object>
+</annotation>

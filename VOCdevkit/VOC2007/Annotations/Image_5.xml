@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Image_5.jpg</filename>
+	<path>D:\Users\Aider\Desktop\Learn\python_crash_course\Deep_Learning配件\数据集\中药白芷数据集（划好）\YUV采集\JPEGImages\Image_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moldy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1526</xmin>
+			<ymin>260</ymin>
+			<xmax>1688</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
